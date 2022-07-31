@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "132342110213",
+    "firebase_url": "https://sheduleopec-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sheduleopec",
+    "storage_bucket": "sheduleopec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132342110213:android:11c8147c62f9b6995fe46c",
+        "android_client_info": {
+          "package_name": "ru.mishenko.shedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132342110213-5jnv6ao3gjj0eljcub0uimpe269ghsd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCdaw5YvJnmHOKMCKJIbYadphWFoRT0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132342110213-5jnv6ao3gjj0eljcub0uimpe269ghsd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132342110213:android:85bbe370fc439e805fe46c",
+        "android_client_info": {
+          "package_name": "ru.sotnikov.opecschedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132342110213-5jnv6ao3gjj0eljcub0uimpe269ghsd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCdaw5YvJnmHOKMCKJIbYadphWFoRT0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132342110213-5jnv6ao3gjj0eljcub0uimpe269ghsd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
